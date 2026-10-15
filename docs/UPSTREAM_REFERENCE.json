@@ -1,0 +1,17 @@
+{
+  "reference_repository": "https://github.com/wokaikaixinxin/O2-RT-DETR",
+  "reference_commit": "e15b5a6696b864c50624ec8eed891785c8150c79",
+  "license_blob_sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+  "inspected_on": "2026-10-15",
+  "root_has_standalone_notice": false,
+  "reference_is_verified_training_revision": false,
+  "local_models_differing_from_reference": [
+    "__init__.py",
+    "hgnetv2.py",
+    "prob_iou.py",
+    "rotated_rtdetr.py",
+    "rotated_rtdetr_head.py",
+    "rotated_rtdetr_layers.py",
+    "rtdetr_layers.py"
+  ]
+}
