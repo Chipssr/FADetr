@@ -34,8 +34,12 @@
 
 ## GitHub publication
 
-- [ ] Confirm GitHub owner and repository name/availability; connect the account.
-- [ ] Review exact upload files, create the repository and push source.
-- [ ] Check GitHub CI; tag the fixed revision used for the paper results.
+- [x] Confirm GitHub owner and repository name/availability; connect the account.
+- [x] Review exact upload files, create the repository and push source.
+- [x] Pass GitHub CI static checks on the published source snapshot.
+- [ ] Tag the fixed revision used for the paper results when those results are available.
 
-No remote repository, accuracy result or trained artifact is created by this list.
+Public repository: https://github.com/Chipssr/FADetr
+
+The initial source snapshot passed [GitHub static checks](https://github.com/Chipssr/FADetr/actions/runs/38718114843).
+Numerical reproduction and trained-artifact checklist items remain open.

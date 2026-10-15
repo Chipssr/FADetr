@@ -1,5 +1,7 @@
 # FADetr
 
+[![Static release checks](https://github.com/Chipssr/FADetr/actions/workflows/static-checks.yml/badge.svg)](https://github.com/Chipssr/FADetr/actions/workflows/static-checks.yml)
+
 FADetr is a research implementation of oriented object detection based on
 [O²-RT-DETR](https://github.com/wokaikaixinxin/O2-RT-DETR). The included model
 combines direction-aware frequency fusion (DAFF) in the feature pyramid with
